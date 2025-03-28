@@ -29,9 +29,18 @@ pip install -r requirements.txt
    ANTHROPIC_API_KEY=your_api_key_here
    ```
 
-2. Run the script:
+2. Create a new timestamped folder for your images:
    ```bash
-   python process_images_to_csv.py <folder_with_images>
+   python create_folder.py
+   # Or to open the folder after creation:
+   python create_folder.py --open
+   ```
+
+3. Copy your image pairs to the created folder
+
+4. Process the images:
+   ```bash
+   python process_images_to_csv.py path/to/folder
    ```
 
 Optional arguments:
