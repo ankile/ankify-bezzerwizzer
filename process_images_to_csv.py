@@ -200,16 +200,16 @@ def export_to_anki_csv(cards: List[Dict[str, Any]], output_file: str) -> None:
         # Write CSV header
         f.write("#separator:semicolon\n")
         f.write("#html:true\n")
-        f.write("#columns:Category;Question;Answer;CardID\n")
+        f.write("#columns:Question;Answer;Category;CardID\n")
         
         # Write card data
         for card in cards:
-            category = card["category"].replace(";", ",")
             question = card["question"].replace(";", ",")
             answer = card["answer"].replace(";", ",")
+            category = card["category"].replace(";", ",")
             card_id = card["card_id"]
             
-            f.write(f"{category};{question};{answer};{card_id}\n")
+            f.write(f"{question};{answer};{category};{card_id}\n")
     
     print(f"Exported {len(cards)} cards to {output_file}")
 
