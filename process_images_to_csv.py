@@ -5,6 +5,7 @@ import uuid
 import argparse
 from glob import glob
 from typing import List, Dict, Any
+from dotenv import load_dotenv
 
 # Import Anthropic SDK
 from anthropic import Anthropic
@@ -170,16 +171,32 @@ def save_json(cards: List[Dict[str, Any]], output_file: str) -> None:
     print(f"Saved {len(cards)} cards to {output_file}")
 
 def main():
+    # Load environment variables from .env file
+    load_dotenv()
+    
     parser = argparse.ArgumentParser(description="Process Bezzerwizzer cards from images")
     parser.add_argument("folder", help="Folder containing image pairs")
-    parser.add_argument("--api-key", required=True, help="Claude API Key")
-    parser.add_argument("--output-csv", default="bezzerwizzer_anki.csv", help="Output CSV file for Anki")
-    parser.add_argument("--output-json", default="bezzerwizzer_cards.json", help="Output JSON file")
+    parser.add_argument("--api-key", help="Claude API Key (overrides .env)")
+    parser.add_argument("--output-csv", help="Output CSV file for Anki (defaults to folder/bezzerwizzer_anki.csv)")
+    parser.add_argument("--output-json", help="Output JSON file (defaults to folder/bezzerwizzer_cards.json)")
     
     args = parser.parse_args()
     
+    # Use API key from command line args if provided, otherwise use from .env
+    api_key = args.api_key or os.getenv("ANTHROPIC_API_KEY")
+    
+    if not api_key:
+        print("Error: Anthropic API key not found. Please set it in .env file or provide with --api-key")
+        return
+    
+    # Set default output paths to be in the same folder as the images
+    if not args.output_csv:
+        args.output_csv = os.path.join(args.folder, "bezzerwizzer_anki.csv")
+    if not args.output_json:
+        args.output_json = os.path.join(args.folder, "bezzerwizzer_cards.json")
+    
     # Initialize the Anthropic client
-    client = Anthropic(api_key=args.api_key)
+    client = Anthropic(api_key=api_key)
     
     # Find all image files in the folder
     image_files = sorted(glob(os.path.join(args.folder, "*.jpg"))) + \
