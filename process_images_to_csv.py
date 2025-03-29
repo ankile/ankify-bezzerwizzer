@@ -206,7 +206,8 @@ def export_to_anki_csv(cards: List[Dict[str, Any]], output_file: str) -> None:
         for card in cards:
             question = card["question"].replace(";", ",")
             answer = card["answer"].replace(";", ",")
-            category = card["category"].replace(";", ",")
+            # Replace spaces with underscores for Anki tags
+            category = card["category"].replace(";", ",").replace(" ", "_")
             card_id = card["card_id"]
             
             f.write(f"{question};{answer};{category};{card_id}\n")
