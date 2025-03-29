@@ -29,7 +29,7 @@ pip install -r requirements.txt
    ANTHROPIC_API_KEY=your_api_key_here
    ```
 
-2. Create a new timestamped folder for your images:
+2. Create a new numbered folder (001, 002, etc.) for your images:
    ```bash
    python create_folder.py
    # Or to open the folder after creation:
@@ -55,5 +55,14 @@ Optional arguments:
 
 ## Output
 
-- CSV file compatible with Anki import
-- JSON file with all extracted question-answer pairs
+- CSV file compatible with Anki import, with the following fields:
+  - Question: The question text
+  - Answer: The answer text
+  - Category: The category name (with spaces replaced by underscores for tag compatibility)
+  - CardID: A unique identifier for the card
+  - SourceFolder: The folder name where the images are stored
+- JSON file with all extracted data including:
+  - All question-answer pairs
+  - Original category name
+  - Category tag name (with underscores)
+  - Source folder name
