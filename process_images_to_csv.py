@@ -216,7 +216,7 @@ def export_to_anki_csv(cards: List[Dict[str, Any]], output_file: str, source_fol
             
             f.write(f"{question};{answer};{category};{card_id};{source_folder}\n")
     
-    print(f"Exported {len(cards)} cards to {output_file}")
+    print(f"Exported {len(cards)} flashcards to {output_file}")
 
 def save_json(cards: List[Dict[str, Any]], output_file: str, source_folder: str = None) -> None:
     """Save cards to JSON file."""
@@ -227,7 +227,7 @@ def save_json(cards: List[Dict[str, Any]], output_file: str, source_folder: str 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     
-    print(f"Saved {len(cards)} cards to {output_file}")
+    print(f"Saved {len(cards)} questions to {output_file}")
 
 def main():
     # Load environment variables from .env file
@@ -288,7 +288,7 @@ def main():
     if all_cards:
         export_to_anki_csv(all_cards, args.output_csv, source_folder)
         save_json(all_cards, args.output_json, source_folder)
-        print(f"\nSuccessfully processed {len(image_files)//2} cards from {len(image_files)//2} image pairs.")
+        print(f"\nSuccessfully processed {len(image_files)//2} bezzerwizzer_cards ({len(all_cards)} questions) from {len(image_files)//2} image pairs.")
     else:
         print("No cards were successfully processed.")
 
