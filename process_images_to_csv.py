@@ -276,7 +276,7 @@ def main():
     if all_cards:
         export_to_anki_csv(all_cards, args.output_csv)
         save_json(all_cards, args.output_json)
-        print(f"\nSuccessfully processed {len(all_cards)} cards from {len(image_files)//2} image pairs.")
+        print(f"\nSuccessfully processed {len(image_files)//2} cards from {len(image_files)//2} image pairs.")
     else:
         print("No cards were successfully processed.")
 
