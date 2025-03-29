@@ -1,0 +1,484 @@
+{
+  "questions": [
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Den greske oldtidsklassikeren 'Odysséen' handler om helten Odyssevs' lange og begivenhetsrike reise. Hvem mener man har skrevet den?",
+      "answer": "Homer",
+      "category": "Bøker"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hvilken flaggermus-familie hører de største flaggermusene til?",
+      "answer": "Flygehunder",
+      "category": "Dyr"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hva slags dyr er Marty fra 'Madagaskar'-filmene?",
+      "answer": "Sebra",
+      "category": "Film"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hva er de nasjonale kjenningsbokstavene for norske fly?",
+      "answer": "LN",
+      "category": "Geografi"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "I hvilket tiår ble postnummer innført i Norge?",
+      "answer": "1960-tallet (1968)",
+      "category": "Historie"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hva heter sekkestolen som finske Jukka Setälä designet i 1998?",
+      "answer": "Fatboy",
+      "category": "Hverdag"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hvilken prosess brukes for å skille fløte fra melk?",
+      "answer": "Sentrifugering",
+      "category": "Mat og drikke"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Under hvilket artistnavn er norske Philip Boardman kjent?",
+      "answer": "Admiral P",
+      "category": "Musikk"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hva heter blomsterfamilien som blomsten på bilde G17 tilhører?",
+      "answer": "Klokkeblomt-familien",
+      "category": "Natur og miljø"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hvilket annet navn brukes om knokkelen 'radius', som sitter i underarmen?",
+      "answer": "Spolebenet",
+      "category": "Naturvitenskap"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hvilket stort amerikansk selskap har tatt navn etter seiersgudinen i gresk mytologi?",
+      "answer": "Nike",
+      "category": "Samfunn"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hvis man har Pinkie Pie og Rainbow Dash-figurene i hånden, hvilket leketøysmerke har man da fått tak i?",
+      "answer": "My Little Pony",
+      "category": "Spill og lek"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hvor mange kuler er det på bordet når man starter et spill vanlig biljard, eller pool, som det heter?",
+      "answer": "16 (15 kuler og 1 hvit støtkule)",
+      "category": "Sport"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hvordan teller man til tre på spansk?",
+      "answer": "Uno, dos, tres",
+      "category": "Språk"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "En reklame fra 1931 skapte tradisjonen med en tjukk nisse i røde klær. Hvilket amerikansk selskap stod bak reklamen?",
+      "answer": "Coca-Cola",
+      "category": "Tradisjon og tro"
+    },
+    {
+      "card_id": "37ca248a-e1c1-4f76-a50a-a5bc2c079771",
+      "question": "Hva heter skaperen av 'X Factor' som er kjent som en fritttalende dommer i 'X Factor' og 'American Idol'?",
+      "answer": "Simon Cowell (f. 1959)",
+      "category": "TV og serier"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvilket dyr er det 'som ville vite hvem som hadde bæsjet på hodet hans' i Werner Holzwarths barnebok?",
+      "answer": "En muldvarp",
+      "category": "Bøker"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hva kalles billen på bilde 13?",
+      "answer": "Eikehjort",
+      "category": "Dyr"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "'What the hell is that? A dress. Says who? Calvin Klein?' Fra hvilken film med Alicia Silverstone som overklassepiken Cher stammer dette sitatet?",
+      "answer": "Clueless",
+      "category": "Film"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvor mange tidssoner flytter man seg når man flyr vestover fra Oslo til San Francisco?",
+      "answer": "9",
+      "category": "Geografi"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvem var verdens første kvinne til å nå både de tre polene, Nordpolen, Sydpolen og Mount Everest, og toppen av det høyeste fjellet på hvert kontinent?",
+      "answer": "Cecilie Skog (f. 1974)",
+      "category": "Historie"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hva holder mannen i Platekompaniets logo i hendene?",
+      "answer": "CD-plater",
+      "category": "Hverdag"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvilken meksikansk rett består av tortillachips, serveres med tomatsalsa og er gratinert med ost?",
+      "answer": "Nachos",
+      "category": "Mat og drikke"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Artisten Ravi rappet på monsterhiten 'Utadæsjælåplevelse' fra 2003, men hvilket band stod bak låten?",
+      "answer": "Folk & Røvere",
+      "category": "Musikk"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hva slags dyrekjøtt blir i butikken merket med bokstavene MSC hvis det er produsert bærekraftig?",
+      "answer": "Fisk (og skalldyr)",
+      "category": "Natur og miljø"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hva kalles en sammensetning av to eller flere atomer, som f.eks. H₂O?",
+      "answer": "Molekyl",
+      "category": "Naturvitenskap"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvor mange år er et pass gyldig for et barn som er mellom fem og ti år?",
+      "answer": "3 år",
+      "category": "Samfunn"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvilket spill spilles med gule og grønne trebrikker på et kvadratisk trebrett med vant og skålhull i hvert hjørne?",
+      "answer": "Kurong",
+      "category": "Spill og lek"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvor mange steiner har hvert curlinglag i en omgang?",
+      "answer": "8",
+      "category": "Sport"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvilket ord er både et programmeringsspråk og slang for kaffe?",
+      "answer": "Java",
+      "category": "Språk"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvilket dyr ligger på svenske matfat når den tradisjonelle 'kräftfesten' går av stabelen hver august?",
+      "answer": "Kreps",
+      "category": "Tradisjon og tro"
+    },
+    {
+      "card_id": "56f2b780-f13b-421c-ab9b-686819be68a3",
+      "question": "Hvilken superstjerne fikk sitt gjennombrudd som freidig hovedrolleinnehaver i tv-serien 'Fresh Prince i Bel-Air'?",
+      "answer": "Will Smith (f. 1968)",
+      "category": "TV og serier"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hva kalles jentegjengen i ungdomsbøkene til Anne Audhild Solberg?",
+      "answer": "Superbitchene",
+      "category": "Bøker"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "I hvilken europeisk hovedstad ligger den dyreparken som har flest dyrearter i verden?",
+      "answer": "Berlin",
+      "category": "Dyr"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hvem spiller Dominic Toretto, som er leder for en gjeng racerkjørere i 'Fast & Furious'-filmene?",
+      "answer": "Vin Diesel (f. 1967)",
+      "category": "Film"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hva heter den danske byen som ligger like ved Legoland?",
+      "answer": "Billund",
+      "category": "Geografi"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "I hvilken europeisk hovedstad kan man besøke Pergamon-museet, som er kjent for sine mange kunstskatter fra Midtøsten?",
+      "answer": "Berlin",
+      "category": "Historie"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hva heter verktøyet som man bruker til å måle om et bilde henger vannrett?",
+      "answer": "Vater",
+      "category": "Hverdag"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hvilken rett kjennetegnes ved at ris sauteres, og at det deretter tilsettes kraft med jevne mellomrom?",
+      "answer": "Risotto",
+      "category": "Mat og drikke"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "'Når det piper i telefonen som en sjøsyk...'. Hvilket instrument mangler i Knutsen & Ludvigsens 'Hallo! Hallo!'?",
+      "answer": "Fiolin",
+      "category": "Musikk"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hvilken steinfrukt kommer svisker fra?",
+      "answer": "Plommer",
+      "category": "Natur og miljø"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hvilken dansk fysiker utviklet kvantemekanikken og mottok Nobelprisen i 1922?",
+      "answer": "Niels Bohr (1885-1962)",
+      "category": "Naturvitenskap"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hvilken internasjonal miljøorganisasjon ble grunnlagt i Canada i 1971?",
+      "answer": "Greenpeace",
+      "category": "Samfunn"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Nevn ett av de to kontinentene som har færrest territorier i et vanlig Risk-spill.",
+      "answer": "Australia og Sør-Amerika",
+      "category": "Spill og lek"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "I hvilken sportsgren er legendariske Alain Prost og Ayrton Senna blitt verdensmestere?",
+      "answer": "Formel 1",
+      "category": "Sport"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hvilket land kan man skrive av alle bokstavene i ordet 'garantien'?",
+      "answer": "Argentina",
+      "category": "Språk"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hvem begår det første mordet det fortelles om i Bibelen?",
+      "answer": "Kain",
+      "category": "Tradisjon og tro"
+    },
+    {
+      "card_id": "22d97f87-72a7-4664-b7f4-bb1eafbcd374",
+      "question": "Hva heter den ni år gamle jenta som er hovedperson i julekalenderserien 'Snøfall' på NRK?",
+      "answer": "Selma",
+      "category": "TV og serier"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "I hvilken bokserie beskriver Laura Ingalls Wilder en families liv som nybyggere i USA på slutten av 1800-tallet?",
+      "answer": "Huset på prærien",
+      "category": "Bøker"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvilket annet navn enn fjellreve brukes om dyret på bilde D11?",
+      "answer": "Puma",
+      "category": "Dyr"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvilken forvirret heltinne spilles av Renée Zellweger i flere filmer hvor Colin Firth spiller hennes utkårede, Mr. Darcy?",
+      "answer": "Bridget Jones",
+      "category": "Film"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvilket europeisk land blir ofte kalt 'Alpelandet'?",
+      "answer": "Sveits",
+      "category": "Geografi"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "I hvilket land var Fidel Castro president i flere tiår?",
+      "answer": "Cuba",
+      "category": "Historie"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hva heter den av Facebooks fire gründere som også er sjef for firmaet?",
+      "answer": "Mark Zuckerberg (f. 1984)",
+      "category": "Hverdag"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hva slags suppe er en 'bouillabaisse'?",
+      "answer": "Fiskesuppe",
+      "category": "Mat og drikke"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvilken artist, som egentlig heter Elizabeth Woolridge Grant, har utgitt låtene 'Lust for Life', 'Born to Die' og 'Doin' Time'?",
+      "answer": "Lana Del Rey (f. 1985)",
+      "category": "Musikk"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hva kaller man vindstyrken som er ett trinn kraftigere enn frisk bris på Beaufortskalaen?",
+      "answer": "Liten kuling",
+      "category": "Natur og miljø"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvilket stjernebilde kan ses på bilde C2?",
+      "answer": "Kassiopeia",
+      "category": "Naturvitenskap"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hva var navnet på den norskproduserte bilen som kom i 1956, og som ble laget i Lunde i Telemark?",
+      "answer": "Troll",
+      "category": "Samfunn"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvilke tre bokstaver er ikke i bruk når man spiller brettspillet Scrabble på norsk?",
+      "answer": "Q, X og Z",
+      "category": "Spill og lek"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvor mange minutter varer en håndballkamp?",
+      "answer": "60",
+      "category": "Sport"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "I hvilke to naboland snakker over 90 mill. av innbyggerne språket punjabi?",
+      "answer": "India og Pakistan",
+      "category": "Språk"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "I en av Jesu lignelser unnlater en prest og en levitt å hjelpe en skadet person. Fra hvilken folkegruppe kommer personen som hjelper?",
+      "answer": "Samaritanere",
+      "category": "Tradisjon og tro"
+    },
+    {
+      "card_id": "02f37f9e-6167-4633-9972-4ea38fd75d51",
+      "question": "Hvilken farge har i en årrekke preget sendingene til satireprogrammet 'Nytt på Nytt'?",
+      "answer": "Oransje",
+      "category": "TV og serier"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "I hvilken historie av Charles Dickens møter vi fortidens, nåtidens og fremtidens ånd?",
+      "answer": "En julefortelling",
+      "category": "Bøker"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hvilken hesterase er et av Norges nasjonalsymboler?",
+      "answer": "Fjordhest (fjording)",
+      "category": "Dyr"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hvilken stumfilmstjerne både skrev og spilte hovedrollen i filmen 'Gullfeber' fra 1925?",
+      "answer": "Charlie Chaplin (1889-1977)",
+      "category": "Film"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Nevn navnet på minst to av de fire amerikanske statene som begynner på Å.",
+      "answer": "Alabama, Alaska, Arizona og Arkansas",
+      "category": "Geografi"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hvilket land ga på 1880-tallet Frihetsgudinnen i gave til USA?",
+      "answer": "Frankrike",
+      "category": "Historie"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hva slags møbel kjøper man hvis man kjøper en 'Billy' på IKEA?",
+      "answer": "Hylle",
+      "category": "Hverdag"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hvilket ismerke finnes bl.a. i smaksvariantene What-a-lotta Chocolate og Chocolate Fudge Brownie?",
+      "answer": "Ben & Jerry's",
+      "category": "Mat og drikke"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hva er navnet til den norske EDM-artisten Kygo?",
+      "answer": "Kyrre Gørvell-Dahll (f. 1991)",
+      "category": "Musikk"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hva kalles den sorte og finkornede bergarten som ble mye brukt på hustak i gamle dager?",
+      "answer": "Skifer",
+      "category": "Natur og miljø"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hva kalles gasstyper som har vanskelig for å reagere med andre grunnstoffer?",
+      "answer": "Edelgasser",
+      "category": "Naturvitenskap"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "BNP er et lands samlede produksjon av varer og tjenester i ett år. Hva står forkortelsen for?",
+      "answer": "Bruttonasjonalprodukt",
+      "category": "Samfunn"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hva er det norske navnet på sjongleringskleken som på spansk kalles 'diabolo'?",
+      "answer": "Djevelspill",
+      "category": "Spill og lek"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hva kalles den spilleren i amerikansk fotball som styrer angrepet og som ofte kaster ballen?",
+      "answer": "Quarterback",
+      "category": "Sport"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hvor mange år går det på et 'sekel'?",
+      "answer": "100",
+      "category": "Språk"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "I hvilken kristen høytid feirer man Den hellige ånds komme?",
+      "answer": "Pinse",
+      "category": "Tradisjon og tro"
+    },
+    {
+      "card_id": "53b7b6e6-4062-4152-925f-6c8593e14840",
+      "question": "Hvilken tegnefilmserie handler om en 12-årig katt som har en dum, rosa kanin til far og en gullfisk ved navn Darwin som bestevenn?",
+      "answer": "Gumballs fantastiske verden",
+      "category": "TV og serier"
+    }
+  ]
+}

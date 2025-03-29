@@ -48,10 +48,12 @@ def assign_categories(extracted_cards: List[Dict[str, Any]]) -> List[Dict[str, A
     for i, card in enumerate(extracted_cards):
         # Update the category while keeping original question and answer
         card["category"] = CATEGORIES[i]
+        # Also add a category_tag version with underscores instead of spaces
+        card["category_tag"] = CATEGORIES[i].replace(" ", "_")
     
     return extracted_cards
 
-def process_image_pair(question_img: str, answer_img: str, client: Anthropic) -> List[Dict[str, Any]]:
+def process_image_pair(question_img: str, answer_img: str, client: Anthropic, source_folder: str = None) -> List[Dict[str, Any]]:
     """Process a pair of question and answer images to create complete cards."""
     print(f"Processing image pair: {os.path.basename(question_img)} & {os.path.basename(answer_img)}")
     
@@ -150,7 +152,8 @@ Just output the JSON with no additional text, explanations, or markdown. Don't a
                 card = {
                     "card_id": card_pair_id,
                     "question": item.get("question", ""),
-                    "answer": item.get("answer", "")
+                    "answer": item.get("answer", ""),
+                    "source_folder": source_folder if source_folder else ""
                 }
                 cards.append(card)
             
@@ -174,7 +177,8 @@ Just output the JSON with no additional text, explanations, or markdown. Don't a
                     card = {
                         "card_id": card_pair_id,
                         "question": item.get("question", ""),
-                        "answer": item.get("answer", "")
+                        "answer": item.get("answer", ""),
+                        "source_folder": source_folder if source_folder else ""
                     }
                     cards.append(card)
                 
@@ -194,30 +198,34 @@ Just output the JSON with no additional text, explanations, or markdown. Don't a
         print(f"Response was: {response}")
         return []
 
-def export_to_anki_csv(cards: List[Dict[str, Any]], output_file: str) -> None:
+def export_to_anki_csv(cards: List[Dict[str, Any]], output_file: str, source_folder: str) -> None:
     """Export cards to Anki-compatible CSV format."""
     with open(output_file, 'w', encoding='utf-8') as f:
         # Write CSV header
         f.write("#separator:semicolon\n")
         f.write("#html:true\n")
-        f.write("#columns:Question;Answer;Category;CardID\n")
+        f.write("#columns:Question;Answer;Category;CardID;SourceFolder\n")
         
         # Write card data
         for card in cards:
             question = card["question"].replace(";", ",")
             answer = card["answer"].replace(";", ",")
-            # Replace spaces with underscores for Anki tags
-            category = card["category"].replace(";", ",").replace(" ", "_")
+            # Use the category_tag (with underscores) for Anki tags
+            category = card["category_tag"].replace(";", ",")
             card_id = card["card_id"]
             
-            f.write(f"{question};{answer};{category};{card_id}\n")
+            f.write(f"{question};{answer};{category};{card_id};{source_folder}\n")
     
     print(f"Exported {len(cards)} cards to {output_file}")
 
-def save_json(cards: List[Dict[str, Any]], output_file: str) -> None:
+def save_json(cards: List[Dict[str, Any]], output_file: str, source_folder: str = None) -> None:
     """Save cards to JSON file."""
+    data = {"questions": cards}
+    if source_folder:
+        data["source_folder"] = source_folder
+        
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump({"questions": cards}, f, indent=2, ensure_ascii=False)
+        json.dump(data, f, indent=2, ensure_ascii=False)
     
     print(f"Saved {len(cards)} cards to {output_file}")
 
@@ -263,6 +271,9 @@ def main():
     if len(image_files) % 2 != 0:
         print(f"Warning: Odd number of images ({len(image_files)}). Each question needs an answer.")
     
+    # Get source folder name (last part of the folder path)
+    source_folder = os.path.basename(os.path.normpath(args.folder))
+    
     # Process images in pairs (even indices: questions, odd indices: answers)
     all_cards = []
     for i in range(0, len(image_files) - 1, 2):
@@ -270,13 +281,13 @@ def main():
         answer_img = image_files[i + 1]
         
         print(f"\nProcessing pair {i//2 + 1}/{len(image_files)//2}:")
-        cards = process_image_pair(question_img, answer_img, client)
+        cards = process_image_pair(question_img, answer_img, client, source_folder)
         all_cards.extend(cards)
     
     # Save results
     if all_cards:
-        export_to_anki_csv(all_cards, args.output_csv)
-        save_json(all_cards, args.output_json)
+        export_to_anki_csv(all_cards, args.output_csv, source_folder)
+        save_json(all_cards, args.output_json, source_folder)
         print(f"\nSuccessfully processed {len(image_files)//2} cards from {len(image_files)//2} image pairs.")
     else:
         print("No cards were successfully processed.")

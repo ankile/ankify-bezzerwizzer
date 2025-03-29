@@ -1,0 +1,645 @@
+{
+  "questions": [
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hva heter den første av L.M. Montgomerys bøker om Anne, som adopteres av søskenparet Marilla og Matthew?",
+      "answer": "Anne fra Bjørkely",
+      "source_folder": "004",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hva heter rovdyret som vises på bilde I9, og som lever i Sør- og Mellom-Amerika?",
+      "answer": "Jaguar",
+      "source_folder": "004",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "I hvilken animasjonsfilm fra 2004 blir gutten Chris hentet på julaften for å besøke Julenissen på Nordpolen?",
+      "answer": "Polarekspressen",
+      "source_folder": "004",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hvilket populært klatremål i Romsdalen har Europas høyeste loddrette stup?",
+      "answer": "Trollveggen",
+      "source_folder": "004",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hva slags bygning er den imponerende Sagrada Familia, som man kan besøke i Barcelona?",
+      "answer": "En kirke",
+      "source_folder": "004",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hvilket produkt forbindes med merkene Labello og EOS?",
+      "answer": "Leppepomade",
+      "source_folder": "004",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hva er hovedingrediensen i falafel?",
+      "answer": "Kikerter",
+      "source_folder": "004",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hvor mange eggeplommer er det i Bakermester Harepus sin peppekakeoppskrift ifølge 'Peppekakebakesangen'?",
+      "answer": "8",
+      "source_folder": "004",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Fra hvilket tre stammer bladet på bilde H3?",
+      "answer": "Eik",
+      "source_folder": "004",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hvilken legering får man hvis man blander 90 % kobber med 10 % tinn?",
+      "answer": "Bronse",
+      "source_folder": "004",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "I hvilket land ble sjokoladedrikpulveret O'boy utviklet?",
+      "answer": "Sverige",
+      "source_folder": "004",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "I Xbox-spillet Castle Crashers kan man velge fire riddere. Den røde har makt over strøm, den blå over is, den grønne gift og den oransje styrer...?",
+      "answer": "Ild",
+      "source_folder": "004",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "I hvilken idrett er det viktig å mestre baggerslag?",
+      "answer": "Volleyball",
+      "source_folder": "004",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hva er 'minuskler'?",
+      "answer": "Små bokstaver",
+      "source_folder": "004",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hvor gammel må man minst være for å få være fadder til et barn som skal døpes i Norge?",
+      "answer": "15 år",
+      "source_folder": "004",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "977d1adf-49e6-40ea-90ad-19a9a07443c1",
+      "question": "Hvilken tv-konkurranse er vunnet av bl.a. Thor Hushovd, Gro Hammerseng-Edin og Pål Anders Ullevålseter?",
+      "answer": "Mesternes Mester",
+      "source_folder": "004",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvilken rosa barnebokfigur har en stor familie med en svart kone og sju barn i forskjellige farger?",
+      "answer": "Barbapappa",
+      "source_folder": "004",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvilke to dyr er barne-TV-figuren Fantorangen en blanding av?",
+      "answer": "Elefant og orangutang",
+      "source_folder": "004",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hva heter den rike damen som ønsker seg en pels laget av '101 dalmatinere' i filmen med samme navn?",
+      "answer": "Cruella de Vil",
+      "source_folder": "004",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hva heter det høyeste fjellet i Frankrike?",
+      "answer": "Mont Blanc",
+      "source_folder": "004",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvilken militærallianse ble opprettet i 1955 av en rekke øst-europeiske land som et motstykke til Vestens NATO?",
+      "answer": "Warszawapakten",
+      "source_folder": "004",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvilken knute stammer fra vikingtiden og heter 'reef knot' på engelsk?",
+      "answer": "Båtmannsknop",
+      "source_folder": "004",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hva slags syltetøy må være med i den østerrikske sjokoladekaken Sachertorte?",
+      "answer": "Aprikossyltetøy",
+      "source_folder": "004",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvilket uttrykk brukes for konkurranse innen norsk folkemusikk?",
+      "answer": "Kappleik",
+      "source_folder": "004",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvilket annet navn enn virvelwind brukes om en liten tornado som også kan gjøre store skader?",
+      "answer": "Skypumpe",
+      "source_folder": "004",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hva heter den svenske astronauten som i 2006 ble første skandinav i verdensrommet?",
+      "answer": "Christer Fuglesang (f. 1957)",
+      "source_folder": "004",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvilket jentenavn var på topp tre-listen over mest brukte navn til nyfødte norske barn hvert år fra 2003-20?",
+      "answer": "Emma",
+      "source_folder": "004",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hvor mange spillere er det som regel på hver forsvarsstang når man spiller bordfobtall?",
+      "answer": "To",
+      "source_folder": "004",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hva kalles den store supporterforeningen til Vålerengens Idrettsforening?",
+      "answer": "Klanen",
+      "source_folder": "004",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Hva heter en hunnhund på engelsk?",
+      "answer": "Bitch",
+      "source_folder": "004",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "Årets første helligdag er første nyttårsdag. Hvilken dag er årets andre helligdag hvis vi ser bort fra vanlige søndager?",
+      "answer": "Skjærtorsdag",
+      "source_folder": "004",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "09f6a6d1-07e2-489b-a0a4-52c1a17f1b44",
+      "question": "BBC har laget en tv-serie som er basert på legenden om kong Arthur. Hva heter trollmannen som flytter til Camelot, hvor magi er forbudt?",
+      "answer": "Merlin",
+      "source_folder": "004",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hvem er det som henter den veldig nysgjerrige apen Nils fra Afrika og hjem til storbyen?",
+      "answer": "Mannen i den gule hatten",
+      "source_folder": "004",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hva kalles jakten i Norge som omfatter jakt etter klovvilt som elg, hjort, villrein og rådyr?",
+      "answer": "Storviltjakt",
+      "source_folder": "004",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hva heter filmen om de små rare huleboerne som den foreldreløse gutten Egg vokser opp hos, og som bare kommer opp om natten for å samle søppel?",
+      "answer": "Bokstrollene",
+      "source_folder": "004",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hvilken av USAs stater har lengst grense mot Canada?",
+      "answer": "Alaska",
+      "source_folder": "004",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hvilken kunstner står bak fontenene i Otterdalsparken i Kristiansand, som ble offisielt åpnet av kong Harald V i 1991?",
+      "answer": "Kjell Nupen (1955-2014)",
+      "source_folder": "004",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hva heter operativsystemet som Google lanserte i 2008, og som brukes i mobiltelefoner verden over?",
+      "answer": "Android",
+      "source_folder": "004",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hvor mange lag med deig skal det være i en ekte wienerbröd-deig?",
+      "answer": "27",
+      "source_folder": "004",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hvilket klassisk verk fra 1725 heter 'Le Quattro Stagioni' på originalspråket?",
+      "answer": "De fire årstider",
+      "source_folder": "004",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hva kalles planten på bilde Q9 som brukes til å lage matolje?",
+      "answer": "Raps",
+      "source_folder": "004",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hvilket etternavn hadde den polske astronomen som på 1500-tallet oppdaget at jorden beveger seg rundt solen - og ikke omvendt?",
+      "answer": "Kopernikus (Nicolaus, 1473-1543)",
+      "source_folder": "004",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "I hvilket tiår åpnet McDonald's sin første restaurant i Norge?",
+      "answer": "1980-tallet (1983)",
+      "source_folder": "004",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hva heter Taitos dataspill fra 1986, hvor to drager må gjennom forskjellige baner, drepe fiender og samle ting?",
+      "answer": "Bubble Bobble",
+      "source_folder": "004",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "I hvilken by kan man se fotball på det imponerende stadionet Allianz Arena, som har plass til mer enn 70.000 tilskuere?",
+      "answer": "München",
+      "source_folder": "004",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Med hvilke to ord sier man 'jeg elsker deg' på italiensk?",
+      "answer": "Ti amo",
+      "source_folder": "004",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "På hvilken dag skapte Gud menneskene, ifølge den første skapelsesberetningen i Bibelen?",
+      "answer": "Den sjette dag",
+      "source_folder": "004",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "d79a57ed-5096-4ca4-975c-b9cc2370121e",
+      "question": "Hva er fornavnene til brødrene Ylvisåker, som bl.a. er kjent fra programmene 'I kveld med YLVIS' og 'Stories from Norway'?",
+      "answer": "Bård og Vegard",
+      "source_folder": "004",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hva heter roman til Jens Bjørneboe fra 1955 som handler om en gutt som plasseres på hjelpeskolen 'Iddioten'?",
+      "answer": "Jonas",
+      "source_folder": "004",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hvilket norsk rovdyr har det latinske navn 'Lynx lynx'?",
+      "answer": "Gaupe",
+      "source_folder": "004",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "I hvilken klassisk Disney-film møter man Duchess, Thomas O'Malley og Scat Cat?",
+      "answer": "Aristokattene",
+      "source_folder": "004",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hva heter landet som er markert med grått på bilde 110?",
+      "answer": "Egypt",
+      "source_folder": "004",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hvilken oppdagelsesreisende seilte i 1271 ut for å utforske Kina, og vendte først tilbake 24 år senere?",
+      "answer": "Marco Polo (1254-1324)",
+      "source_folder": "004",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Fra hvilket land kommer kleskjedene Gina Tricot og Monki?",
+      "answer": "Sverige",
+      "source_folder": "004",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hva slags nøtt er det i Nutella?",
+      "answer": "Hasselnøtt",
+      "source_folder": "004",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hva heter Edvard Griegs orkesterverk som bl.a. inneholder satsene 'Morgenstemning' og 'I Dovregubbens hall'?",
+      "answer": "Peer Gynt",
+      "source_folder": "004",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hva heter loven som gir alle lov til å bruke den norske naturen uavhengig av hvem som eier grunnen?",
+      "answer": "Allemannsretten",
+      "source_folder": "004",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hvilket vitamin får man når solens stråler treffer huden?",
+      "answer": "D-vitamin",
+      "source_folder": "004",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hvilken butikkjede reklamerer med filosofien 'det enkle er ofte det beste'?",
+      "answer": "Rema 1000",
+      "source_folder": "004",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hva kalles avataren som man kan lage av seg selv på Nintendos Wii-konsoller?",
+      "answer": "Mii",
+      "source_folder": "004",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "I hvilken amerikansk by er det mange som holder med det lokale basketball-laget Knicks?",
+      "answer": "New York City (New York Knicks)",
+      "source_folder": "004",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Dette norske ordet stammer fra det tyske ordet for 'gjennomslag' og brukes om et kjøkkenredskap. Hvilket ord tenker vi på?",
+      "answer": "Dørslag (stammer fra 'Durchschlag')",
+      "source_folder": "004",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "Hva kalles en trestamme med utskårne og malte symboler som er kjent fra indianerstammer?",
+      "answer": "Totempæl",
+      "source_folder": "004",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "eab70072-f29b-44e9-a9ac-950d50089bae",
+      "question": "I hvilken amerikansk tv-serie kan man møte Jay Pritchett og hans kone, barn, barnebarn, svigerbarn og stebarn?",
+      "answer": "Modern Family",
+      "source_folder": "004",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva er den norske tittelen på det første bindet i 'The Hunger Games'-trilogien, der Katniss Everdeen blir valgt ut til å kjempe for livet?",
+      "answer": "Dødslekene",
+      "source_folder": "004",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva heter fuglen med det latinske navnet 'Cuculus canorus' som ikke ruger på sine egne egg?",
+      "answer": "Gjøken",
+      "source_folder": "004",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hvilken berømt filmregissør har både skrevet og regissert filmene 'Midnight in Paris' og 'Magic in the Moonlight'?",
+      "answer": "Woody Allen (f. 1935)",
+      "source_folder": "004",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "I hvilken by kan man besøke Den himmelske freds plass?",
+      "answer": "Beijing",
+      "source_folder": "004",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hvem er den andre i arverekken til den norske tronen, etter Kronprins Haakon?",
+      "answer": "Prinsesse Ingrid Alexandra (f. 2004)",
+      "source_folder": "004",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva heter det store amerikanske selskapet som siden midt på 1900-tallet har laget svarte og gullfargede batterier?",
+      "answer": "Duracell",
+      "source_folder": "004",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva heter frukten på bilde G3 som er en spesialitet i mange asiatiske land til tross for sin ubehagelige duft?",
+      "answer": "Durian",
+      "source_folder": "004",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva heter vokalisten i det britiske rockebandet The Rolling Stones?",
+      "answer": "Mick Jagger (f. 1943)",
+      "source_folder": "004",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva kalles de kraftige vindene som er vanlige i Sørøst-Asia, og som ofte utløser voldsomt regn?",
+      "answer": "Monsun",
+      "source_folder": "004",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva er det mer vanlige ordet for 'komedoner', som kan ses som små sorte prikker på nesen?",
+      "answer": "Hudormer",
+      "source_folder": "004",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hvilken bygning kan man se på bilde D18?",
+      "answer": "Oslo Børs",
+      "source_folder": "004",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva heter spillet der man skal samle opp en haug tynne trepinner en etter en uten at de andre pinnene beveger seg?",
+      "answer": "Mikado",
+      "source_folder": "004",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hva heter skirennet for funksjonshemmede som arrangeres på Beitostølen hver vår?",
+      "answer": "Ridderrennet",
+      "source_folder": "004",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hvor mange vokaler er det i det engelske alfabetet?",
+      "answer": "6 (A, E, I, O, U, Y)",
+      "source_folder": "004",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "På hvilken dato feirer man halloween med grøss, gresskar og godteri?",
+      "answer": "31. oktober",
+      "source_folder": "004",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "db40e937-ef24-4f0e-aac9-6e6b0d426cf3",
+      "question": "Hvilken videregående skole er sentral i tv-serien 'SKAM'?",
+      "answer": "Hartvig Nissen",
+      "source_folder": "004",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    }
+  ],
+  "source_folder": "004"
+}
