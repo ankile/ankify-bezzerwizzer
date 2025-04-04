@@ -1,0 +1,389 @@
+{
+  "questions": [
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "I hvilket land foregår musikalen 'De elendige', som er basert på Victor Hugos berømte roman med samme navn?",
+      "answer": "Frankrike ('Les Miserables')",
+      "source_folder": "005",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hva heter dyret på bilde R11?",
+      "answer": "Stinkdyr",
+      "source_folder": "005",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "I hvilken musikkfilm møter man high school-elevene Rizzo, Danny, Frenchy, Kenickie og Sandy?",
+      "answer": "Grease",
+      "source_folder": "005",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "I hvilken by kan man se Vestmuren, som også blir kalt Klagemuren og er et av jødedommens hellige steder?",
+      "answer": "Jerusalem",
+      "source_folder": "005",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hvilke to europeiske land var forent i et såkalt 'dobbelmonarki' fra 1867-1918?",
+      "answer": "Østerrike og Ungarn",
+      "source_folder": "005",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hva heter Apples dataprogram som brukes til å kjøpe og spille av musikk og film?",
+      "answer": "iTunes",
+      "source_folder": "005",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hva slags pizza forbindes spesielt med den amerikanske byen Chicago?",
+      "answer": "Deep pan pizza (deep dish pizza)",
+      "source_folder": "005",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hvilket navn bruker Shawn Corey Carter når han rapper og produserer musikk?",
+      "answer": "Jay-Z (f. 1969)",
+      "source_folder": "005",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Blomsten 'tagetes' har et norsk navn som starter med navnet på et stoff man kan sy klær av. Hva er blomstens norske navn?",
+      "answer": "Fløyelsblomst",
+      "source_folder": "005",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hva heter den internasjonale romstasjonen som ble sendt opp i 1998?",
+      "answer": "ISS (International Space Station)",
+      "source_folder": "005",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hvilken norsk dagligvarekjede forbindes med slagordet 'kjøp kjapt, trygt og billig'?",
+      "answer": "Kiwi",
+      "source_folder": "005",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Brettspillet Ticket to Ride kan foregå i f.eks. USA eller Europa. Hvilken type transportmiddel handler spillet om?",
+      "answer": "Tog",
+      "source_folder": "005",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hvilken fotballspiller spilte for Vålerenga, Rosenborg, Valencia, AS Roma, Besiktas, Lyon, Aston Villa, Stoke City og West Ham United?",
+      "answer": "John Carew (f. 1979)",
+      "source_folder": "005",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "I det spanske ordet 'España' er det et tegn over n-en som betyr at det skal uttales som nj. Hva heter dette tegnet?",
+      "answer": "Tilde",
+      "source_folder": "005",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hvilken bryllupsdag kan man feire når man har vært gift i 30 år?",
+      "answer": "Perlebryllup",
+      "source_folder": "005",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "bcab4f41-dc71-4517-855c-d408630b02b3",
+      "question": "Hvilken tv-konkurranse er vunnet av bl.a. Atle Pettersen, Helene Olafsen og Andreas Wahl?",
+      "answer": "Skal vi danse",
+      "source_folder": "005",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hva heter gården som Emil fra Lønneberget bor på i Astrid Lindgrens klassiske historier?",
+      "answer": "Katthult",
+      "source_folder": "005",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hva heter dyret på bilde M14?",
+      "answer": "Flått (Skogbjørn)",
+      "source_folder": "005",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvem spiller rollen som Troy Bolton i 'High School Musical'-serien?",
+      "answer": "Zac Efron (f. 1987)",
+      "source_folder": "005",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvis man besøker Holmenkollen i Oslo, hvilken bydel er man i da?",
+      "answer": "Vestre Aker",
+      "source_folder": "005",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvilket tårn ble oppført på Champ-de-Mars til Verdensutstillingen i 1889?",
+      "answer": "Eiffeltårnet",
+      "source_folder": "005",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Fra hvilket land stammer kampsporten capoeira?",
+      "answer": "Brasil",
+      "source_folder": "005",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvilken norsk restaurantkjede ble startet av kokken Trond og vinkelnereren Toralf i 1995?",
+      "answer": "Bølgen & Moi",
+      "source_folder": "005",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvordan lyder de første ti ordene i 'Julekveldsvisa' av Alf Prøysen?",
+      "answer": "Nå har vi vaska golvet, og vi har børi ved",
+      "source_folder": "005",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hva kalles den vulkanske steinarten som er så lett at den kan flyte på vann?",
+      "answer": "Pimpstein",
+      "source_folder": "005",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvilket norsk navn har det røde merket på huden som noen spedbarn får, og som vanligvis forsvinner igjen etter en tid?",
+      "answer": "Jordbærmerke",
+      "source_folder": "005",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvilket norsk selskap er blitt ledet av Tormod Hermansen, Jon Fredrik Baksaas og Sigve Brekke?",
+      "answer": "Telenor",
+      "source_folder": "005",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hvilken pokerhånd er mer verdt enn to par, men mindre verdt enn en straight?",
+      "answer": "Tress (tre like)",
+      "source_folder": "005",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "På hvilke to løpedistanser satte Ingrid Kristiansen verdensrekord på 1980-tallet?",
+      "answer": "5 000 meter og 10 000 meter",
+      "source_folder": "005",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "På hvilket europeisk språk heter en pølse 'korv'?",
+      "answer": "Svensk",
+      "source_folder": "005",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "Hva heter ifølge gresk mytologi den første kvinnen på jorden, som er kjent for en spesiell eske med dårlige egenskaper?",
+      "answer": "Pandora",
+      "source_folder": "005",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "e35a2362-b98a-457e-b529-78707cc4cc1d",
+      "question": "I hvilket land foregår den norske utgaven av 'Paradise Hotel'?",
+      "answer": "Mexico",
+      "source_folder": "005",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "I hvilken bok av Ole Lund Kirkegaard får Topper plutselig et gigantisk, sultent dyr i hus?",
+      "answer": "Otto er et neshorn",
+      "source_folder": "005",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "En sølvrygg er en eldre lederhann-ape med sølvgrå pels. I hvilken apeslekt?",
+      "answer": "Gorilla",
+      "source_folder": "005",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hvilken sang fra filmen 'Frost' mottok i 2014 en Oscar for beste sang?",
+      "answer": "La den gå (Let It Go)",
+      "source_folder": "005",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hva heter de to høyeste fjellene i Norge?",
+      "answer": "Galdhøpiggen og Glittertind",
+      "source_folder": "005",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "I hvilket tiår ble Hjelpestikkefondet opprettet, der 1 øre av hver solgte eske av Nitedals hjelpestikker gikk til dette fondet?",
+      "answer": "1920-tallet (1925)",
+      "source_folder": "005",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hva er navnet på den sveitsiske lukkemekanismen fra 1941 som ofte brukes i stedet for skolisser på barnesko?",
+      "answer": "Velcro (kalles også borrelås)",
+      "source_folder": "005",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hva heter den avlange steinfrukten som vokser på palmen på bildet Q?",
+      "answer": "Daddel",
+      "source_folder": "005",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Julie Bergan toppet VG-lista i 2016 med en låt som også ble svært populær på appen musical.ly. Hva heter låten?",
+      "answer": "Arigato",
+      "source_folder": "005",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Fra hvilket land kommer firmaet Gazprom, som er en av verdens største produsenter av naturgass?",
+      "answer": "Russland",
+      "source_folder": "005",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hva het den sovjetiske romstasjonen som kretset rundt jorden fra 1986 og frem til den styrtet i Stillehavet i 2001?",
+      "answer": "Mir",
+      "source_folder": "005",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hva heter den norske internettportalen for å levere elektroniske skjemaer til offentlige myndigheter?",
+      "answer": "Altinn",
+      "source_folder": "005",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hvilket selskap står bak spillserier som FIFA, The Sims og Need for Speed?",
+      "answer": "EA (Electronic Arts)",
+      "source_folder": "005",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "I hvilken øvelse satte den ukrainske friidrettsstjernen Sergej Bubka verdensrekord mer enn 30 ganger på 1980- og 1990-tallet?",
+      "answer": "Stavsprang",
+      "source_folder": "005",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hvilket ord, som opprinnelig er sammensatt av ordene klode og trave, brukes om person som reiser mye?",
+      "answer": "Globetrotter",
+      "source_folder": "005",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hvis man er kvinne og får en morgengave, hva var man da dagen før?",
+      "answer": "Brud",
+      "source_folder": "005",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "98d976d5-be81-4060-bab7-a0cfc36672e0",
+      "question": "Hva heter det fiktive kontinentet hvor det meste av tv-serien 'Game of Thrones' foregår?",
+      "answer": "Westeros",
+      "source_folder": "005",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    }
+  ],
+  "source_folder": "005"
+}

@@ -1,0 +1,1285 @@
+{
+  "questions": [
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hva heter hovedpersonen i bokserien til Edgar Rice Burroughs som har blitt filmatisert en rekke ganger?",
+      "answer": "Tarzan",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hva heter ungene til en hval?",
+      "answer": "Kalver",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvilken morromann spiller hele 11 roller i komedien 'Norske byggeklosser' fra 2018?",
+      "answer": "Atle Antonsen (f. 1969)",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hva heter hovedstaden i Oman, som ligger i Midtøsten?",
+      "answer": "Muskat",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hva het den tyske presten som kan ses på bilde A7?",
+      "answer": "Martin Luther (1483-1546)",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "På hvilket tall er bokstavene T, U og V plassert på en gammeldags mobiltelefon?",
+      "answer": "8-tallet",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvilken ungarsk gryterett består av oksekjøtt, gulrøtter, løk og masse paprika?",
+      "answer": "Gulasj",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvem synger på Mark Ronsons 'Uptown Funk' som var en stor hit i 2014?",
+      "answer": "Bruno Mars (f. 1985)",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvilket ord brukes om høyeste flo ved ny- og fullmåne?",
+      "answer": "Springflo",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvilket navn hadde de amerikanske romfergene som fra 1969-72 ble sendt ut i verdensrommet og opp til månen?",
+      "answer": "Apollo",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvilken farge har sløyfen som brukes i den årlige aksjonen for å vise solidaritet med kreftrammede og spre informasjon om brystkreft?",
+      "answer": "Rosa",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvilket kortspill spilles av fire spillere og ofte i en kontrakt-utgave?",
+      "answer": "Bridge",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvor lang er løpebanen på en internasjonal friidrettsstadion?",
+      "answer": "400 m",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvordan sier man 'God jul' på spansk?",
+      "answer": "Feliz navidad",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "Hvilken hovedstad ble ifølge sagnet grunnlagt av tvillingene Remus og Romulus?",
+      "answer": "Roma",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "3369f9ce-5c0f-4487-88ad-f7539d20a8b9",
+      "question": "I hvilken TV 2-serie spiller Linn Skåber rollen som Lena som er ekspert på å tråkke i salaten og skape pinlige situasjoner?",
+      "answer": "Best før",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvilken norsk forfatter har skrevet bøkene 'Natt på Frognerbadet' og 'Ha deg vekk'?",
+      "answer": "Sverre Henmo (f. 1968)",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvilket blottdyr, som på latin heter 'Arion vulgaris', ble i 2012 oppført i gruppen 'svært høy risiko' på Norsk Svarteliste?",
+      "answer": "Brunsnegl (brunskogssnegl)",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Fra hvilken filmserie huskes unge Marty McFly, den gærne Doc Brown og en ganske spesiell DeLorean-bil?",
+      "answer": "Tilbake til fremtiden",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "I hvilket hav ligger Galápagos-øyene, som er kjent for sitt rike og eksotiske dyreliv?",
+      "answer": "Stillehavet",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvordan forkortes det moderne kunstmuseet i New York, der vi kan se Andy Warhols 'Campbell's Soup Cans' og Vincent van Goghs 'Stjernenatt'?",
+      "answer": "MoMA (Museum of Modern Art)",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hva heter appen for enkel pengeoverføring via smarttelefon som DNB lanserte i 2015?",
+      "answer": "Vipps",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hva slags mel bruker man hvis man vil lage den tykke, italienske grøten polenta?",
+      "answer": "Maismel",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvem skrev antikrigs-sangen 'Imagine' fra 1971?",
+      "answer": "John Lennon (1940-80)",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvilken miljøvernorganisasjon er den eldste i Norge?",
+      "answer": "Naturvernforbundet (NNV)",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hva er det norske navnet på barnesykdommen som legen kaller 'rubella', og som nesten er forsvunnet pga. MMR-vaksinen?",
+      "answer": "Røde hunder",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Mange nordmenn ønsker å få en lønnsom telefon fra Norsk Tipping. Hvilken by ringer det i så fall fra?",
+      "answer": "Hamar",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvilken figur står på sjakkbrettets felt E8 når partiet begynner?",
+      "answer": "Kongen (den sorte)",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvilket lag, anført av bl.a. Isabell Herlovsen, vant Toppserien for første gang i 2012 og har siden vært dominerende i norsk kvinnefotball?",
+      "answer": "LSK Kvinner",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hvilket produkt, som man vanligvis finner på badet, heter 'hoitoaine' på finsk?",
+      "answer": "Balsam",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hva kalles jordens undergang i norrøn mytologi?",
+      "answer": "Ragnarok",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "84c05c19-f963-488d-9caa-a80d0531d686",
+      "question": "Hva heter journalisten som i 2018 begynte som programleder for NRKs 'Debatten'?",
+      "answer": "Fredrik Solvang (f. 1977)",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hvilket insekt er det som 'flyr i skumringen' i Maria Gripes roman fra 1979?",
+      "answer": "Tordivelen",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hva heter insektet som vises på bilde 119?",
+      "answer": "Øyenstikker",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hva kaller den sjenerte Peter Parker seg når han forvandler seg til superhelt?",
+      "answer": "Spiderman",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "I hvilket Sør-Amerikansk land heter hovedstaden Santiago?",
+      "answer": "Chile",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hvor mye kostet en Krone-Is da den ble lansert i 1953?",
+      "answer": "0,75 kroner",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hva er hobbyen din hvis du abonnerer på bladene 'Wendy' og 'Penny & Friends'?",
+      "answer": "Hester (ridning)",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hva er hovedingrediensen i retten baba ghanoush?",
+      "answer": "Aubergine",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hvilken artist fikk sitt gjennombrudd på 1950-tallet med hits som 'Jailhouse Rock' og 'Love Me Tender'?",
+      "answer": "Elvis Presley (1935-77)",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hva kalles de kjemiske stoffene som brukes til å mykgjøre plast, og som kan fremkalle hormonforstyrrelser hos mennesker?",
+      "answer": "Ftalater",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hvilken italiensk vitenskapsmann oppdaget Jupiters måner og ble fengslet fordi han mente at jorden dreiet rundt solen?",
+      "answer": "Galileo Galilei (1564-1642)",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "I hvilken av årets måneder feirer man farsdag i Norge?",
+      "answer": "November (andre søndag)",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "I hvilket brettspill må man gjennom kategoriene Ordsnok, Rampelyst, Målemester og Faktonaut?",
+      "answer": "Cranium",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hvilket land er man i hvis man spiller golf på den berømte golfbanen i St. Andrews?",
+      "answer": "Skottland",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hva er det norske uttrykket for det engelske 'wedgie', der man trekker en persons underbukse oppover ryggen?",
+      "answer": "Truserøsk",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Ved hvilken kirkelig begivenhet synger man ofte salmene 'Alltid freidig når du går' og 'Så ta da mine hender'?",
+      "answer": "Begravelse",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "1e029328-690d-441a-ae10-f5ca3b2df7c4",
+      "question": "Hva het programmet på Discovery Channel hvor Jamie Hyneman og Adam Savage fant ut om det var hold i ulike vandrehistorier?",
+      "answer": "MythBusters",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hva heter yngstegutten i Anne-Cath. Vestlys bøker om 'Mormor og de åtte ungene'?",
+      "answer": "Morten Minstemann",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "På hvilken annen øy enn Sumatra lever orangutangen i det fri?",
+      "answer": "Borneo",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hvilket instrument spiller den musikalske alligatoren Louis, som blir venn med prinsen og prinsessen i Disneys film 'Prinsessen og frosken'?",
+      "answer": "Trompet",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "I hvilken by kan man komme opp i bygningen på bilde J3?",
+      "answer": "New York City",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hva var etternavnet til det norske ekteparet som på 1960-tallet påviste spor etter en ca. 1 000 år gammel norrøn bosetning på Newfoundland?",
+      "answer": "Ingstad (Anne Stine, 1918-97 og Helge, 1899-2001)",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hvilket engelsk ord brukes om utganger på en flyplass der man går om bord i fly?",
+      "answer": "Gate",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hva kalles sukker som ikke er raffinert?",
+      "answer": "Råsukker",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Fra hvilket land kommer bandet Tokio Hotel?",
+      "answer": "Tyskland",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hva kalles usortert løsmateriale av stein som er avsatt av en isbre?",
+      "answer": "Morene",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hvilket norsk ord brukes om sykdommen 'gangren', hvor kroppens vev råtner og i verste fall må amputeres?",
+      "answer": "Koldbrand",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hvilket tall forbindes med nettstedet opplysningen.no?",
+      "answer": "1881",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "I hvilket land foregår det klassiske strategispillet Carcassonne?",
+      "answer": "Frankrike",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hvilken by var vert for de olympiske leker i 1984, da mange østeuropeiske land valgte å bli hjemme?",
+      "answer": "Los Angeles",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hva heter den andre bokstaven i det greske alfabetet?",
+      "answer": "Beta",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hvilket nummer i rekken av de ti bud er 'Du skal ikke stjele'?",
+      "answer": "7",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "9d408c5e-bacc-428c-b46d-5fe09437adf7",
+      "question": "Hvilken tidligere alpinist har ledet TVNorge-realityserien '71° nord' i over femten år?",
+      "answer": "Tom Stiansen (f. 1970)",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvilken norsk forfatter har skrevet boken 'Buzz Aldrin, hvor ble det av deg i alt mylderet?' og ungdomsromanen 'Darlah'?",
+      "answer": "Johan Harstad (f. 1979)",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "I hvilken by kan man besøke Atlanterhavsparken?",
+      "answer": "Ålesund",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hva slags dyr er Alvin og vennene hans som i en film flytter inn hos låtskriveren Dave og imponerer ham med sang?",
+      "answer": "Ekorn (jordekorn)",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hva heter Nord-Afrikas minste land, som ligger mellom sine store naboer Algerie og Libya?",
+      "answer": "Tunisia",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvilken krig skildrer maleren Pablo Picasso på sitt berømte maleri 'Guernica'?",
+      "answer": "Den spanske borgerkrigen",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvilken nettleser ble lansert av Apple i 2003 og er en av de mest brukte på MAC-maskiner?",
+      "answer": "Safari",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hva kalles de mange små forrettene som serveres på italienske restauranter?",
+      "answer": "Antipasti",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvilken superstjerne er kjent for hits som 'Diamonds' og 'We Found Love'?",
+      "answer": "Rihanna (Robyn Rihanna Fenty, f. 1988)",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvilket selskap, grunnlagt i 1992, er ansvarlig for det norske kraftsystemet og for å legge til rette for å oppfylle nasjonale klimamål?",
+      "answer": "Statnett",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hva er det norske navnet for knokkelen som går fra brystbeinet og opp til skulderbladet, og som også kalles nøkkelbeinet?",
+      "answer": "Kragebeinet",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "I hvilken avis ble Trine Eilertsen sjefredaktør i 2016?",
+      "answer": "Aftenposten",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hva heter kortene man må trekke når man lander på et spørsmålstegn i vanlig Monopol?",
+      "answer": "Prøv lykken",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvem ble i 2018 den første kvinnelige fotballspilleren som vant Gullballen, eller Ballon d'Or?",
+      "answer": "Ada Hegerberg (f. 1995)",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvilken forkortelse brukes både om 'blant annet' og 'blant andre'?",
+      "answer": "bl.a.",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Hvordan lyder andre del av det dobbelte kjærlighetsbudet, som også kalles nestekjærlighetsbudet?",
+      "answer": "Du skal elske din neste som deg selv",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "4b9886b4-f54b-433e-a037-aa3b59a23928",
+      "question": "Teenage Mutant Ninja Turtles er oppkalt etter kjente kunstnere og heter Raphael, Donatello og Michelangelo. Hva heter den fjerde?",
+      "answer": "Leonardo",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva heter tegneseriefiguren 'Donald Duck' på dansk?",
+      "answer": "Anders And",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Det finnes to nålevende pattedyr i verden som legger egg. Det ene er maurpinnsvinet, hva heter det andre?",
+      "answer": "Nebbdyr",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva inneholder de fargede glasskulene som Rileys fem følelser holder orden på i filmen 'Innsiden ut'?",
+      "answer": "Minner",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva heter havet som ligger mellom Europa og Afrika?",
+      "answer": "Middelhavet",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva kalles rivaliseringen og spenningstilstanden mellom USA og Sovjetunionen i perioden 1945-90?",
+      "answer": "Den kalde krigen",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hvilket it-selskap er kjent for produktene OfficeJet og LaserJet?",
+      "answer": "Hewlett-Packard (HP)",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva kalles den amerikanske retten der krydret svinekjøtt tilberedes i så lang tid at kjøttet blir mørt og kan rives fra hverandre?",
+      "answer": "Pulled pork",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hvilket pønkrockband fra Kristiansand albumdebuterte i 2011 med 'La alarmane gå', med bl.a. en cover av Raga Rockers-låten 'Noen å hate'?",
+      "answer": "Honningbarna",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hvilken blomst regnes, ved siden av bergfrue, som Norges nasjonalblomst?",
+      "answer": "Røsslyng",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva heter det dødelige viruset som smitter via kroppsvæsker, og som rammet Vest-Afrika i en epidemi i 2014?",
+      "answer": "Ebola",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva er industriselskapet Store Norske kjent for å produsere?",
+      "answer": "Kull",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "I hvilket multiplayer onlinespill som ble populært på rekordtid etter lanseringen i 2015, er man en celle som skal bli større og større?",
+      "answer": "Agar.io",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Et speedwayløp består av flere separate løp. Hvilket engelsk ord brukes om et enkelt løp?",
+      "answer": "Heat",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hvilke fire ord skjuler seg bak den engelske forkortelsen YOLO?",
+      "answer": "You Only Live Once",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hvilken farge er det på klærne til de ugifte munkene fra Hare Krishna-bevegelsen?",
+      "answer": "Oransje",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "cdeaf70b-6243-47c5-acf7-e2335c65b0d0",
+      "question": "Hva heter den amerikanske barnekanalen som har fått navn etter fem-cent-mynten som man i gamle dager betalte for å gå på kino?",
+      "answer": "Nickelodeon",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvilken engelsk tittel har den japanske tegneserien der den unge 'martial arts'-krigeren Son Goku kjemper mot ondskap?",
+      "answer": "Dragon Ball",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "I hvilken by kan man besøke det marine opplevelsessenteret Polaria, som bl.a. har et arktisk akvarium?",
+      "answer": "Tromsø",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvilken av figurene i tegnefilmene om Ole Brumm er vanligvis et svært lite dyr og en engstelig liten fyr?",
+      "answer": "Nasse Nøff",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "I hvilken fjord kan man se både Preikestolen og Kjeragbolten?",
+      "answer": "Lysefjorden",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "I hvilket tiår ble bilde B2 tatt?",
+      "answer": "1980-tallet (Bildet viser Berlinmurens fall i 1989)",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "I hvilken by er man på ferie hvis man prøver pariserhjulet på bilde Q6?",
+      "answer": "London (London Eye)",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvis man kjøper de italienske delikatessene pecorino, scamorza og ricotta, hva kjøper man da?",
+      "answer": "Ost",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvilken internasjonalt berømt pianist ble i 2013 den første artisten noensinne til å vinne ti Spellemannpriser?",
+      "answer": "Leif Ove Andsnes (f. 1970)",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hva er det norske navnet på frukttreet 'pyrus'?",
+      "answer": "Pære",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvilket primtall i tillegg til 1 går opp i både 39 og 65?",
+      "answer": "13",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvem ble i 2017 Norges første kvinnelige utenriksminister?",
+      "answer": "Ine Marie Eriksen Søreide (f. 1976)",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "I hvilket brettspill skal man samle fliser som man bruker til å dekorere et portugisisk palass?",
+      "answer": "Azul",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvor gammel var Magnus Carlsen da han i 2013 ble verdensmester i sjakk?",
+      "answer": "22",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvilket uttrykk fra insektverdenen brukes om noe som kun er interessant et kort øyeblikk, og fort blir glemt?",
+      "answer": "Døgnflue",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvilken av Jesu disipler hadde tilnavnet Iskariot?",
+      "answer": "Judas",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "406ec028-ae88-4a01-801d-0b81a437be1d",
+      "question": "Hvilket dyr er danseløven Kong Julien, som etter å ha blitt populær med Madagaskar-filmene fikk sin egen tv-serie på Netflix?",
+      "answer": "Lemur",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvordan lyder den magiske setningen som kan åpne hulen i eventyret om 'Ali Baba og de 40 røverne'?",
+      "answer": "(Sesam), Sesam, lukk deg opp!",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Dette søramerikanske dyret sover mange timer om dagen og må kun kvitte seg med avføring en gang i uken. Hvilket dyr er det?",
+      "answer": "Dovendyr",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "I hvilken drøy animasjonsfilm, som opprinnelig er dansk, har Herman Flesvig hele 113 forskjellige stemmer i den norske versjonen?",
+      "answer": "Rutete Ninja",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "I hvilken amerikansk stat ligger byen Houston?",
+      "answer": "Texas",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilken engelsk sykepleier ble kjent for innsatsen sin under Krim-krigen, og for å ha grunnlagt den moderne sykepleien?",
+      "answer": "Florence Nightingale (1820-1910)",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilket produkt ble i gamle dager kalt et kronometer?",
+      "answer": "Klokker",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilken råvare forbindes med det engelske området Maldon?",
+      "answer": "Salt",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilket forhistorisk monument i England har YLVIS-brødrene laget en sang om som har et titalls millioner visninger på YouTube?",
+      "answer": "Stonehenge",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilket pigment er det som gir grønnfargen til planter?",
+      "answer": "Klorofyll",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilket ord bruker fysikeren om et lufttomt rom?",
+      "answer": "Vakuum",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilket etternavn er det mest vanlige i Norge?",
+      "answer": "Hansen",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hva heter familiespillet hvor man skal få et tårn av fargerike treklosser til å bli høyere - uten at det velter?",
+      "answer": "Klossmajor",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hva heter de tre Ingebrigtsen-brødrene fra Sandnes som har hatt stor suksess som løpere?",
+      "answer": "Henrik, Filip og Jakob",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hva betyr 'Frohe Weihnachten' på tysk?",
+      "answer": "God jul",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilken trosretning tilhører menn som bærer en såkalt kippa på hodet?",
+      "answer": "Jødedommen",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "6d16abbd-62d9-4a00-bf4d-0a70a0bbd1e2",
+      "question": "Hvilken adventsserie forbindes med linjene 'Stille senker natten seg, over deg og over meg, snøen faller alt er hvitt, se så vakkert alt er blitt'?",
+      "answer": "Jul i Svingen",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "I Hemingways klassiker 'Den gamle mannen og havet' kjemper en fisker for å hale sitt livs fangst i land. Hva slags fisk kjemper han mot?",
+      "answer": "En sverdfisk",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Det finnes tre krokodillefamilier: krokodiller, gavialer og hva heter den tredje?",
+      "answer": "Alligator",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hvilke dyr er de to vennene Todd og Copper i tegnefilmen 'To gode venner'?",
+      "answer": "Rev og hund",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hva heter det gule landet på bilde K3?",
+      "answer": "Chile",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hva kalles revolusjonen som startet i Storbritannia mot slutten av 1700-tallet?",
+      "answer": "Den industrielle revolusjon",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hvilken farge er det på Men i logoen til fastfood-kjeden McDonald's?",
+      "answer": "Gul",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hvilken mye brukt ingrediens finnes i utgaver som øland, enkorn og dallari?",
+      "answer": "Hvetemel",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hvilket instrument forbindes med Jan Garbarek?",
+      "answer": "Saksofon",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hva kalles prosessen der planter ved hjelp av sollyset danner organisk stoff og oksygen?",
+      "answer": "Fotosyntese",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hvilken nervesykdom har fått navn etter en engelsk lege og fører til at man skjelver på hendene og er stiv i musklene?",
+      "answer": "Parkinson",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "En norsk olympisk mester i kulekjøring har i senere tid gjort suksess med eget klesmerke. Hva heter hun?",
+      "answer": "Kari Traa (f. 1974)",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hva heter Nintendo-spillet, som bl.a. finnes i utgavene 'Melee' og 'Brawl', hvor man f.eks. skal kjempe med figurene Pikachu, Kirby og Mario?",
+      "answer": "Super Smash Bros.",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hvilken by var vert da de første moderne olympiske leker ble avholdt i 1896?",
+      "answer": "Athen",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hva betyr den arabiske hilsenen 'assalamu alaikum'?",
+      "answer": "Fred være med deg",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "Hvis man går til nattverd i kirken, får man en tynn kjeks som kalles et oblat. Før man spiser den, sier presten: 'Dette er Jesu …'?",
+      "answer": "Legeme (kropp)",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "4a7b49f8-307b-4473-bc2b-13a0e261f521",
+      "question": "I hvilken stor HBO-serie spiller Ingrid Bolsø Berdal rollen som roboten Armistice?",
+      "answer": "Westworld",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilken bok av Robert Louis Stevenson handler om gutten Jim Hawkins som kjemper mot sjørøveren Long John Silver?",
+      "answer": "Skatten på sjørøverøya",
+      "source_folder": "007",
+      "category": "Bøker",
+      "category_tag": "Bøker"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilken fugl ble i 1963 kåret til Norges nasjonalfugl?",
+      "answer": "Fossekall",
+      "source_folder": "007",
+      "category": "Dyr",
+      "category_tag": "Dyr"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilken av følgende superhelter er IKKE med i 2012-filmen 'The Avengers': Hulk, Batman, Iron Man, Captain America eller Thor?",
+      "answer": "Batman",
+      "source_folder": "007",
+      "category": "Film",
+      "category_tag": "Film"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "I hvilken by står skyskraperen Burj Khalifa, som med sine 828 meter ble verdens høyeste ved innvielsen i 2010?",
+      "answer": "Dubai",
+      "source_folder": "007",
+      "category": "Geografi",
+      "category_tag": "Geografi"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hva er kjælenavnet på den største klokken i Westminster Palace i London?",
+      "answer": "Big Ben",
+      "source_folder": "007",
+      "category": "Historie",
+      "category_tag": "Historie"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilken stor netthandelsside, hvor man kan kjøpe klær, sko og mye annet, ble grunnlagt av tyskerne Schneider, Ritter og Gentz i 2008?",
+      "answer": "Zalando",
+      "source_folder": "007",
+      "category": "Hverdag",
+      "category_tag": "Hverdag"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Fra hvilket land stammer det eksklusive kobe-kjøttet?",
+      "answer": "Japan",
+      "source_folder": "007",
+      "category": "Mat og drikke",
+      "category_tag": "Mat_og_drikke"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hva kalles det indiske instrumentet på bilde C11?",
+      "answer": "Sitar",
+      "source_folder": "007",
+      "category": "Musikk",
+      "category_tag": "Musikk"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilke to farger kan en sjampinjong ha?",
+      "answer": "Hvit og brun",
+      "source_folder": "007",
+      "category": "Natur og miljø",
+      "category_tag": "Natur_og_miljø"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "I hvilket ledd i menneskekroppen sitter menisken?",
+      "answer": "I kneet",
+      "source_folder": "007",
+      "category": "Naturvitenskap",
+      "category_tag": "Naturvitenskap"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hva er aldersgrensen på de sosiale mediene Facebook, Instagram og Snapchat?",
+      "answer": "13 år",
+      "source_folder": "007",
+      "category": "Samfunn",
+      "category_tag": "Samfunn"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilket sted, som bl.a. er nevnt i Bibelen, har gitt navn til en kjent hinklelek?",
+      "answer": "Paradis",
+      "source_folder": "007",
+      "category": "Spill og lek",
+      "category_tag": "Spill_og_lek"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilken alpinist ble historisk da han i 2007 ble første nordmann som vant et internasjonalt mesterskap i utfor?",
+      "answer": "Aksel Lund Svindal (f. 1982)",
+      "source_folder": "007",
+      "category": "Sport",
+      "category_tag": "Sport"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hvilket tall er det danskene tenker på når de sier 'halvtreds'?",
+      "answer": "50",
+      "source_folder": "007",
+      "category": "Språk",
+      "category_tag": "Språk"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "Hva var det Lots hustru ifølge Bibelen ble forvandlet til da hun snudde seg for å se ødeleggelsen av Sodoma og Gomorra?",
+      "answer": "En saltstøtte",
+      "source_folder": "007",
+      "category": "Tradisjon og tro",
+      "category_tag": "Tradisjon_og_tro"
+    },
+    {
+      "card_id": "430d1f46-e07e-4e3c-b355-9a29b992e49f",
+      "question": "På hvilken strømmetjeneste, som fikk norsk premiere i 2012, kan man se den spanske dramaserien 'Papirhuset' og eventyrserien 'The Witcher'?",
+      "answer": "Netflix",
+      "source_folder": "007",
+      "category": "TV og serier",
+      "category_tag": "TV_og_serier"
+    }
+  ],
+  "source_folder": "007"
+}
